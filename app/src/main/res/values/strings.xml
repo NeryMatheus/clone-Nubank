@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NuClone</string>
+    <string name="txt_nome_usuario">Olá, Matheus</string>
+
+    <string name="txt_salario_conta">Conta \n\n R$ 813,95</string>
+    <string name="txt_cartoes">Meus Cartões</string>
+
+    <string name="txt_cartao_credito">Cartão de crédito</string>
+    <string name="txt_fatura_atual">Fatura atual</string>
+    <string name="txt_valor_fatura">R$ 1.635,70</string>
+    <string name="txt_limite_disponivel">Limite disponível de R$ 2.149,36</string>
+</resources>
